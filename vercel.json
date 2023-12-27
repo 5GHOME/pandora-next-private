@@ -1,0 +1,3 @@
+{
+  "installCommand": "docker-compose up -d"
+}
